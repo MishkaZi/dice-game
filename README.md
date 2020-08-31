@@ -1,2 +1,2 @@
-# dice-game
+# dicee.html
 Dice game, Java+  DOM
