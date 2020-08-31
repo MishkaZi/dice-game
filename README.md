@@ -1,2 +1,2 @@
-# dice-game
+Refresh webpage!
 Dice game, Java+  DOM
